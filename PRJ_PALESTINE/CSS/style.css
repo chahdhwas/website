@@ -1,0 +1,21 @@
+h1{
+	color:red;
+	
+}
+
+p{
+	color:black;
+}
+h2{
+	color:green;
+	font-size:40px;
+	font-style:italic;
+	
+}
+a{
+	color:blue;
+	text-transform:uppercase;
+}
+img{
+	text-align:center;
+}
